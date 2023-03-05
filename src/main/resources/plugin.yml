@@ -1,0 +1,4 @@
+name: FunctionalPlugin
+version: '${project.version}'
+main: me.moteloff.functionalplugin.FunctionalPlugin
+api-version: 1.16
